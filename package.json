@@ -1,0 +1,8 @@
+{
+  "name": "botcamp",
+  "version": "1.0.0",
+  "description": "Projeto do BotCamp da impulso network",
+  "main": "index.js",
+  "author": "Wagner Cruz",
+  "license": "MPL-2.0"
+}
